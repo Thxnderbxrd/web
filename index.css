@@ -1,3 +1,10 @@
 body {
-    background: linear-gradient(90deg, rgba(162,158,246,1) 0%, rgba(145,145,255,1) 21%, rgba(34,105,255,1) 100%);
+    background: linear-gradient(45deg, rgb(139, 161, 246), rgb(153, 123, 184));
+}
+
+h1 {
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+    margin-top: 250px;
+    color: white;
 }
