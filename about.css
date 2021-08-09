@@ -1,5 +1,5 @@
 .menubar {
-    width: 1000px;
+    width: 850px;
     height: 85px;
     border-radius: 5px;
     border: 2px solid white;
@@ -8,11 +8,11 @@
 }
 
 body {
-    background: linear-gradient(45deg, rgb(139, 161, 246), rgb(153, 123, 184));
+    background-color: #222222;
 }
 
 h1 {
-    font-family: 'Poiret One', cursive;
+    font-family: 'Montserrat Alternates', sans-serif;
     text-align: center;
     font-size: 96px;
     margin-top: 250px;
@@ -28,17 +28,18 @@ a {
 
 a:hover {
     color: crimson;
+    text-decoration: none;
 }
 
 li {
     list-style-type: none;
-    font-family: 'Khand', sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif;
     color: white;
 }
 
 .container {
-        width: 1000px;
-        height: 400px;
+        width: 800px;
+        height: 300px;
         border-radius: 5px;
         border: 2px solid white;
         margin: auto;
@@ -48,7 +49,7 @@ li {
 p {
     font-family: 'Montserrat Alternates', sans-serif;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 25px;
     font-size: 28px;
     color: white;
     margin-left: 20px;
