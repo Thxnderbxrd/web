@@ -1,3 +1,11 @@
+.container {
+    width: 1500px;
+    height: 900px;
+    border-radius: 2px;
+    margin: auto;
+    margin-top: 25px;
+}
+
 body {
     background: linear-gradient(45deg, rgb(139, 161, 246), rgb(153, 123, 184));
 }
@@ -8,4 +16,13 @@ h1 {
     font-size: 96px;
     margin-top: 250px;
     color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: crimson;
 }
