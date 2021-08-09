@@ -14,7 +14,7 @@ body {
 }
 
 h1 {
-    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Poiret One', cursive;
     text-align: center;
     font-size: 96px;
     margin-top: 250px;
@@ -35,7 +35,7 @@ a:hover {
 
 .menubar li {
     list-style-type: none;
-    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Poiret One', cursive;
     color: white;
     display: inline;
     margin-right: 40px;
@@ -51,7 +51,7 @@ a:hover {
 }
 
 p {
-    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Poiret One', cursive;
     text-align: center;
     margin-top: 25px;
     font-size: 28px;
