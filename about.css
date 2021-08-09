@@ -1,0 +1,60 @@
+.menubar {
+    width: 1000px;
+    height: 85px;
+    border-radius: 5px;
+    border: 2px solid white;
+    margin: auto;
+    margin-top: 25px;
+}
+
+body {
+    background: linear-gradient(45deg, rgb(139, 161, 246), rgb(153, 123, 184));
+}
+
+h1 {
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+    font-size: 96px;
+    margin-top: 250px;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+
+a:hover {
+    color: crimson;
+}
+
+li {
+    list-style-type: none;
+    font-family: 'Khand', sans-serif;
+    color: white;
+}
+
+.container {
+        width: 1000px;
+        height: 400px;
+        border-radius: 5px;
+        border: 2px solid white;
+        margin: auto;
+        margin-top: 25px;
+}
+
+p {
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 28px;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+span {
+    color: #83e192;
+}
