@@ -10,7 +10,7 @@ body {
     background-color: #222222;
 }
 
-h1 {
+#html {
     font-family: 'Poiret One', cursive;
     text-align: center;
     font-size: 96px;
@@ -24,5 +24,12 @@ a {
 }
 
 a:hover {
-    color: crimson;
+    color: #83e192;
+}
+
+#css {
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+    font-size: 96px;
+    color: white;
 }
