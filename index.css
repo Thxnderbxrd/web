@@ -5,6 +5,7 @@ body {
 h1 {
     font-family: 'Poiret One', cursive;
     text-align: center;
+    font-size: 96px;
     margin-top: 250px;
     color: white;
 }
